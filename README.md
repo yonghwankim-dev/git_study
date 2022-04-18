@@ -5,4 +5,5 @@
 
 1. [\[Git\] Git 설치 및 로컬 저장소 커밋 관리](https://yonghwankim-dev.tistory.com/307)
 2. [\[Git\] GitHub 원격저장소에 커밋 올리기](https://yonghwankim-dev.tistory.com/308)
+3. [\[Git\] GitHub 원격저장소의 커밋을 로컬저장소에 내려받기](https://yonghwankim-dev.tistory.com/309)
 
