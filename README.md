@@ -7,3 +7,10 @@
 2. [\[Git\] GitHub 원격저장소에 커밋 올리기](https://yonghwankim-dev.tistory.com/308)
 3. [\[Git\] GitHub 원격저장소의 커밋을 로컬저장소에 내려받기](https://yonghwankim-dev.tistory.com/309)
 
+### Chapter 2. 혼자서 Git으로 버전 관리하기
+
+1. [\[Git\] 로컬저장소를 소스트리에 불러오기](https://yonghwankim-dev.tistory.com/310)
+2. [\[Git\] 소스트리로 커밋 생성하고 푸시하기](https://yonghwankim-dev.tistory.com/311)
+
+
+
