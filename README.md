@@ -11,6 +11,8 @@
 
 1. [\[Git\] 로컬저장소를 소스트리에 불러오기](https://yonghwankim-dev.tistory.com/310)
 2. [\[Git\] 소스트리로 커밋 생성하고 푸시하기](https://yonghwankim-dev.tistory.com/311)
+3. [\[Git\] 그림으로 Git 뜯어보기](https://yonghwankim-dev.tistory.com/312)
+
 
 
 
