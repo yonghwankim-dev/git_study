@@ -22,6 +22,13 @@
 5. [\[Git\] 브랜치를 합치는 예의바른 방법 : 풀 리퀘스트(Pull Request)](https://yonghwankim-dev.tistory.com/320)
 6. [\[Git\] 개발이 완료되었습니다. 출시하자! : 릴리즈(Release)](https://yonghwankim-dev.tistory.com/321)
 
+### Chapter 4. 둘 이상의 원격저장소로 협업하기
+
+1. [\[Git\] 원본저장소를 복사해서 원격저장소를 생성 (fork)](https://yonghwankim-dev.tistory.com/325)
+2. [\[Git\] Fork한 원격저장소에서 원본저장소에 풀 리퀘스트 보내기](https://yonghwankim-dev.tistory.com/326)
+3. [\[Git\] 묵은 커밋을 새 커밋으로 이력 조작하기(rebase)](https://yonghwankim-dev.tistory.com/327)
+
+
 
 
 
