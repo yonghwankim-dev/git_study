@@ -1,1 +1,1 @@
-amend 실습하기 1
+amend.md 실습 파일 수정
