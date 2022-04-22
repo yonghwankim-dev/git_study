@@ -42,10 +42,9 @@
 
 ### Chapter 6. PART 1에서 수행했던 기본 명령어
 
-1. [\[Git\] 왜 CLI를 사용할까?]()
-2. [\[Git\] Git Bash를 시작하자]()
-3. [\[Git\] 기본 CLI 명령어 살펴보기]()
-4. [\[Git\] 원격저장소 관련 CLI 명령어]()
+1. [\[Git\] Git Bash를 시작하자](https://yonghwankim-dev.tistory.com/334)
+2. [\[Git\] 기본 CLI 명령어 살펴보기](https://yonghwankim-dev.tistory.com/335)
+3. [\[Git\] 원격저장소 관련 CLI 명령어](https://yonghwankim-dev.tistory.com/336)
 
 ### Chapter 7. 브랜치 생성 및 조작하기
 
