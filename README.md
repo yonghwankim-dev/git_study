@@ -48,12 +48,12 @@
 
 ### Chapter 7. 브랜치 생성 및 조작하기
 
-1. [\[Git\] CLI로 브랜치 생성하기]()
-2. [\[Git\] CLI로 checkout하기]()
-3. [\[Git\] CLI로 3-way 병합하기]()
-4. [\[Git\] CLI로 rebase 해보기]()
+1. [\[Git\] CLI로 브랜치 생성하기](https://yonghwankim-dev.tistory.com/337)
+2. [\[Git\] CLI로 checkout하기](https://yonghwankim-dev.tistory.com/338)
+3. [\[Git\] CLI로 3-way 병합하기](https://yonghwankim-dev.tistory.com/339)
+4. [\[Git\] CLI로 rebase 해보기](https://yonghwankim-dev.tistory.com/340)
 
-### Chapter 8. GUI 내부 동작 원리
+### Chapter 8. G 내부 동작 원리
 
 1. [\[Git\] git add 명령의 동작 원리]()
 2. [\[Git\] git commit 명령의 동작 원리]()
