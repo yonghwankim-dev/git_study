@@ -55,10 +55,10 @@
 
 ### Chapter 8. G 내부 동작 원리
 
-1. [\[Git\] git add 명령의 동작 원리]()
-2. [\[Git\] git commit 명령의 동작 원리]()
-3. [\[Git\] 수동 커밋하며 살펴보기]()
-4. [\[Git\] 브랜치 작업 살펴보기]()
+1. [\[Git\] git add 명령의 동작 원리](https://yonghwankim-dev.tistory.com/341)
+2. [\[Git\] git commit 명령의 동작 원리](https://yonghwankim-dev.tistory.com/342)
+3. [\[Git\] 수동 커밋하며 살펴보기](https://yonghwankim-dev.tistory.com/343)
+4. [\[Git\] 브랜치 작업 살펴보기](https://yonghwankim-dev.tistory.com/344)
 
 ### Chapter 9. 인증 기능 살펴보기
 
