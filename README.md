@@ -62,5 +62,5 @@
 
 ### Chapter 9. 인증 기능 살펴보기
 
-1. [\[Git\] 인증 관련 기능 사용하기]()
-2. [\[Git\] SSH 키 생성 및 사용하기]()
+1. [\[Git\] 인증 관련 기능 사용하기](https://yonghwankim-dev.tistory.com/345)
+2. [\[Git\] SSH 키 생성 및 사용하기](https://yonghwankim-dev.tistory.com/346)
